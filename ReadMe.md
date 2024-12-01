@@ -217,7 +217,7 @@ Obtain API keys for the following services:
    ELEVENLABS_API_KEY = 'your-elevenlabs-api-key'
    ```
 
-   **Note:** Dont share you API key with anyone!
+   **Note:** More setup details and help in the ReadMe folder (for example Debate AI - Setup and Configuration Guide)
 
 ---
 
