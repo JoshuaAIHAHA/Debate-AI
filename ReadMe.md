@@ -183,9 +183,9 @@ Obtain API keys for the following services:
 
 ### Setting Up API Keys
 
-1. **Create a `config.py` File**
+1. **Change Place Holder API Keys to Your Own**
 
-   In the root directory of the project, create a file named `config.py`.
+   Place holders in debate.py, Online_scraper.py and pre_debate_chat.py.
 
 2. **Add Your API Credentials to debate.py, Online_scraper.py and pre_debate_chat.py**
 
