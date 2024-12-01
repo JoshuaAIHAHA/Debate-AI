@@ -110,13 +110,14 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/DebateAI.git
-   cd DebateAI
+   git clone https://github.com/JoshuaAIHAHA/Debate-AI
    ```
 
 2. **Create a Virtual Environment**
 
    ```bash
+   cd The Debate Github Folder
+   For example --- cd /home/your-username/Desktop/test/Debate-AI/Debate Github
    python3 -m venv venv
    ```
 
