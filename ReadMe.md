@@ -115,9 +115,13 @@
 
 2. **Create a Virtual Environment**
 
+  cd The Debate Github Folder
+   For example 
    ```bash
-   cd The Debate Github Folder
-   For example --- cd /home/your-username/Desktop/test/Debate-AI/Debate Github
+   cd /home/your-username/Desktop/test/Debate-AI/Debate Github
+   ```
+  
+   ```bash
    python3 -m venv venv
    ```
 
