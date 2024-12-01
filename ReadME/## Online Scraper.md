@@ -73,30 +73,28 @@ The **Online Scraper** is a tool designed to automatically gather information fr
 
 ### Installation Steps
 
-1. **Clone or Download the Repository:**
+1. **Clone or Download the Main Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/OnlineScraper.git
-   cd OnlineScraper
+   git clone https://github.com/JoshuaAIHAHA/Debate-AI
+   cd /home/your_username/Desktop/Debate Github 
    ```
 
-2. **Create and Activate a Virtual Environment (Optional):**
+2. **Activate Your Already Made Virtual Environment (Refer to Debate Setup If Not Made):**
 
    #### On Unix or MacOS:
 
    ```bash
-   python3 -m venv venv
    source venv/bin/activate
    ```
 
    #### On Windows:
 
    ```bash
-   python -m venv venv
    venv\Scripts\activate
    ```
 
-3. **Install Dependencies:**
+3. **Install Dependencies (Should Already Be Done):**
 
    ```bash
    pip install -r requirements.txt
@@ -164,10 +162,11 @@ python Online_Scraper.py
 
    - Once completed, the summary will be displayed in the output window.
    - The summary is also saved to `online_scrape_info.txt` and `online_scrape_info.json` in the script's directory.
+   - AI debaters will use it automatically without pausing or restart.
 
 5. **Clear Output (Optional):**
 
-   - Click the "Clear Output" button to clear the text in the output window.
+   - Delete the text inside of online_scrape_info.txt.
 
 ---
 
