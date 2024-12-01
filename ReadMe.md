@@ -354,7 +354,7 @@ While this project is open source under the MIT License, please consider providi
 
 - **Project Maintainer:** [Joshua G] 
 - **Email:** [Joshuag.contact@gmail.com] 
-- **Issues:** [GitHub Issues Page](https://github.com/yourusername/Debate-AI/issues)
+- **Issues:** [GitHub Issues Page](https://github.com/JoshuaAIHAHA/Debate-AI/issues)
 
 ---
 ## ⚠️ Disclaimer
