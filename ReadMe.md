@@ -153,7 +153,7 @@
 
 6. **Configure API Keys**
 
-   - Edit `config.py` with your API credentials (see [Configuration](#-configuration) below).
+   - Edit all scripts with your API credentials (see [Configuration](#-configuration) below).
 
 ---
 
